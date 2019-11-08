@@ -24,7 +24,7 @@ dependencies {
 }
 ```
 
-## Useage
+## Usage
 ```xml
 <com.foxtrot30.htmlspinner.HtmlSpinner
    android:id="@+id/html_spinner"/>
