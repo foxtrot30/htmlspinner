@@ -17,12 +17,12 @@ allprojects {
 ```
 
 ## Useage
-```
+```xml
 <com.foxtrot30.htmlspinner.HtmlSpinner
    android:id="@+id/html_spinner"/>
 ```
 
-```
+```java
 ArrayList<HtmlSpinnerModel> list = new ArrayList<>();
 HtmlSpinnerModel model = new HtmlSpinnerModel();
 model.setKey("");
