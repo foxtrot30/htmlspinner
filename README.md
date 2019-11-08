@@ -7,12 +7,20 @@
 
 ## Download
 Gradle (using jitpak.io repo) Add it in your root build.gradle at the end of repositories:
-```
+
+[![](https://jitpack.io/v/foxtrot30/htmlspinner.svg)](https://jitpack.io/#foxtrot30/htmlspinner)
+```gradle
 allprojects {
    repositories {
      ...
      maven { url 'https://jitpack.io' }
    }
+}
+```
+
+```gradle
+dependencies {
+  implementation 'com.github.foxtrot30:htmlspinner:1.0.0'
 }
 ```
 
