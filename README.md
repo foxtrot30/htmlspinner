@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/foxtrot30/htmlspinner.svg)](https://jitpack.io/#foxtrot30/htmlspinner) ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/foxtrot30/htmlspinner) ![GitHub repo size](https://img.shields.io/github/repo-size/foxtrot30/htmlspinner) ![GitHub Release Date](https://img.shields.io/github/release-date/foxtrot30/htmlspinner)
+
 # htmlspinner
 **HtmlSpinner** is a library to simplify and shorten your coding when creating a spinner and make it easier for you to get the value of the spinner as in HTML and Javascript when getting the value of an option tag
 
@@ -8,7 +10,6 @@
 ## Download
 Gradle (using jitpak.io repo) Add it in your root build.gradle at the end of repositories:
 
-[![](https://jitpack.io/v/foxtrot30/htmlspinner.svg)](https://jitpack.io/#foxtrot30/htmlspinner)
 ```gradle
 allprojects {
    repositories {
